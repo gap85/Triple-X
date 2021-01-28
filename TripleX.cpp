@@ -1,4 +1,5 @@
 #include <iostream>
+#include <ctime>
 
 /**Print introduction for each iteration of the game*/
 void PrintIntroduction(int Difficulty, int Attempts)
